@@ -273,22 +273,6 @@ section.wrapper, article.wrapper {
         width: auto;
       }
     }
-    @media only screen and (max-width: 600px) {
-      /* Styles for viewports up to 600px wide */
-    
-      /* Make the grid columns stack vertically on smaller screens */
-      .grid-column {
-        width: 100%;
-        margin: 0;
-      }
-    }
-    
-    @media only screen and (min-width: 601px) and (max-width: 900px) {
-      /* Styles for viewports between 601px and 900px wide */
-    
-      /* Reduce the font size for headings on smaller screens */
-      h1, h2, h3, h4, h5, h6 {
-        font-size: 1.5em;
-      }
-    }
-    
+
+      
+      
